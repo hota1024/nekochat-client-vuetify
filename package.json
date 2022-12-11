@@ -26,7 +26,7 @@
     "@vue/composition-api": "^0.3.4",
     "cross-env": "^5.2.0",
     "dayjs": "^1.8.17",
-    "express": "^4.16.4",
+    "express": "^4.17.3",
     "md5": "^2.2.1",
     "nuxt": "^2.0.0",
     "socket.io": "^2.3.0",
